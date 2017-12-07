@@ -6,8 +6,9 @@ Data Science for Design - Assignments 2, 3 and 4
 Data Source: LibraryThing.com
 Original Data File: ModernistLibraries20171025_UTF-8.csv
 
-
+------
 INDEX
+------
 
 Analysis_Assignment2: Jupyter notebooks with analysis of the original data file using Python
 
